@@ -3,6 +3,7 @@
   <a href="https://jscript.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <a href="CureLatte:zhqmfkv@naver.com" target="_blank"><img src="https://img.shields.io/badge/zhqmfkv@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=dark"/></a>
   <a href="https://www.linkedin.com/in/%ED%9B%88%ED%9D%AC-%EA%B9%80//" target="_blank"><img src="https://img.shields.io/badge/CureLatte-0A66C2?style=flat-square&logo=Linkedin&logoColor=dark"/></a>
+    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCureLatte&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
   
 </p>
 <p>
