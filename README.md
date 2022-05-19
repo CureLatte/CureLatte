@@ -1,4 +1,9 @@
-<div align=left
+
+<div align=center>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CureLatte&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=github_dark" />   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CureLatte&layout=compact&hide_border=true&theme=github_dark)
+</div>
+<div align=left>
      
   
   <p>안녕하세요 신입 백엔드 개발자 김재성입니다.<br/><br/>
@@ -18,8 +23,7 @@
 <br/>
 <div align=left> 
 
-<!--   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CureLatte&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=github_dark" />   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CureLatte&layout=compact&hide_border=true&theme=github_dark) -->
+  
   
   ## Platforms & Languages
   
