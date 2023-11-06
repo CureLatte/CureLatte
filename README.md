@@ -6,9 +6,8 @@
 <div align=left>
      
   
-  <p>안녕하세요 신입 백엔드 개발자 김재성입니다.<br/><br/>
-  저는 졸업작품인 3D LineScanner의 알고리즘 파트를 담당하다 코딩의 매력에 빠져 개발자가 되기로 결심했습니다.<br/>
-  좋은 개발자가 되기 위해 TIL 작성, 개발자 책읽기, 1일 1커밋(알고리즘)을 꾸준히 하고 있습니다!</p><br/>
+  <p>안녕하세요 2년차 백엔드 개발자 김재성입니다. <br/></p>
+    <br/>
   <p>
     <a href="https://jscript.tistory.com/" target="_blank">
       <img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
