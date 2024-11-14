@@ -8,6 +8,9 @@
   
   <p>안녕하세요 2년차 백엔드 개발자 김재성입니다. <br/></p>
     <br/>
+    꾸준히 성장하고 싶어 블로그도 운영하고 있습니다!
+    [블로그 방문하기](https://velog.io/@zhqmfkv/posts)
+    [STACK DOCS](https://github.com/CureLatte/stackDocs.git)
   <p>
     <a href="https://jscript.tistory.com/" target="_blank">
       <img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
