@@ -47,7 +47,7 @@
 *** 
 
 최신글  
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=zhqmfkv)](https://github.com/zhqmfkv/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=zhqmfkv)](https://velog.io/@zhqmfkv/posts)
 
 
 
