@@ -1,9 +1,14 @@
 
 <div align=left style="gap: 20px">
-<a href="https://hhpluscertificateofcompletion.oopy.io/">
-  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_purple.svg" />
-</a>
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCureLatte&count_bg=%23C2E0DF&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=VIST&edge_flat=false"/></a>
+  <div id="badage">
+    
+  <a href="https://hhpluscertificateofcompletion.oopy.io/">
+    <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_purple.svg" />
+  </a>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCureLatte&count_bg=%23C2E0DF&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=VIST&edge_flat=false"/>
+  </a>
+    
+  </div>
 
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=CureLatte&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark" />
 
